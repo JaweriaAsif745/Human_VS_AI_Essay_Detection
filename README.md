@@ -21,8 +21,13 @@ A Flask-based web app that detects whether an essay is **AI-generated** or **hum
 
 Users can paste or type an essay into the text box.
 
+🤖 AI Essay
+
 <img width="818" height="422" alt="input" src="https://github.com/user-attachments/assets/f6f6d5e9-ff33-410f-87c3-7c697e4143e0" />
 
+✅ Human Essay
+
+<img width="642" height="420" alt="human_text" src="https://github.com/user-attachments/assets/ad673f85-91d5-469e-b3cd-5dee79004099" />
 
 📊 Output Page
 
