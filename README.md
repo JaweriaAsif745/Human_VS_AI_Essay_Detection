@@ -16,6 +16,27 @@ A Flask-based web app that detects whether an essay is **AI-generated** or **hum
 * **Visualization**: Matplotlib, Seaborn, WordCloud
 * **Data Handling**: Pandas, NumPy
 
+🎨 Web Interface
+📝 Input Page
+
+Users can paste or type an essay into the text box.
+
+<img width="818" height="422" alt="input" src="https://github.com/user-attachments/assets/f6f6d5e9-ff33-410f-87c3-7c697e4143e0" />
+
+
+📊 Output Page
+
+The system shows prediction, confidence scores, and reasoning.
+
+✅ Human Essay Prediction
+
+<img width="612" height="217" alt="positive output" src="https://github.com/user-attachments/assets/975514f5-c840-44ba-bb0f-71c4120a9305" />
+
+🤖 AI Essay Prediction
+
+<img width="610" height="221" alt="outpt" src="https://github.com/user-attachments/assets/dfabc878-e795-4826-9831-a7f0c7c5e0e5" />
+
+
 ## 📂 Project Structure
 
  ```bash
