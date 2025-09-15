@@ -27,7 +27,8 @@ Users can paste or type an essay into the text box.
 
 ✅ Human Essay
 
-<img width="642" height="420" alt="human_text" src="https://github.com/user-attachments/assets/ad673f85-91d5-469e-b3cd-5dee79004099" />
+<img width="780" height="421" alt="human_text" src="https://github.com/user-attachments/assets/3f05b04a-b578-4688-807b-e62bedf60fc6" />
+
 
 📊 Output Page
 
