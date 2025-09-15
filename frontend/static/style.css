@@ -1,0 +1,64 @@
+body{
+    background: 
+        linear-gradient(rgba(73, 73, 73, 0.6), rgba(73, 73, 73, 0.6)), 
+        url("images/back-Pic.jpg") center/cover no-repeat;
+}
+
+h1{
+    text-align: center;
+    color: rgb(215, 243, 31);
+}
+
+textarea{
+    display: block;
+    background-color: transparent;
+    border: 1px solid rgb(236, 244, 121);
+    margin: auto;
+    color: white;
+    font-size: 15px;
+    padding: 5px;
+}
+
+
+.btn{
+    width: 750px;
+    margin: 20px auto;
+    display: flex;    
+    justify-content: space-evenly;
+}
+button{
+    background-color:rgb(236, 244, 121) ;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: larger;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover{
+    background-color: rgb(217, 228, 96);
+    transform: scale(1.1);
+}
+
+.result-box {
+    width: 700px;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgba(236, 244, 121, 0.2);  /* light yellow with opacity */
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    border: 1px solid rgb(236, 244, 121);
+    transition: 0.5s;
+}
+
+.result-box.success {
+    background-color: rgba(50, 200, 50, 0.3); /* greenish for Human */
+    border-color: rgb(50, 200, 50);
+}
+
+.result-box.danger {
+    background-color: rgba(200, 50, 50, 0.3); /* reddish for AI */
+    border-color: rgb(200, 50, 50);
+}
