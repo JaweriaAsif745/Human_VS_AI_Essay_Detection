@@ -77,7 +77,7 @@ Human-vs-AI-Classifier/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/JaweriaAsif745/Human_VS_AI_Essay_Detection
+   git clone https://github.com/JaweriaAsif745/Human_VS_AI_Essay_Detection.git
    cd Human-vs-AI-Classifier
    ```
 2. Install dependencies:
